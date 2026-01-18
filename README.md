@@ -177,7 +177,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Name - Rusiru
 
 Project Link: [https://github.com/yourusername/vehicle-affordability-calculator](https://github.com/yourusername/vehicle-affordability-calculator)
 
